@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"LabExam200026.obj" 
+TO "LabExam(200026)" 
+PRINT(".\Listings\LabExam(200026).m51")

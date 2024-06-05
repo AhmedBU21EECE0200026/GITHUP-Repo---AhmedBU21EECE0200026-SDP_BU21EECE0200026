@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Blink_in_sequnce.obj" 
+TO ".\Objects\Blink_in_sequnce" 
+PRINT(".\Listings\Blink_in_sequnce.m51")

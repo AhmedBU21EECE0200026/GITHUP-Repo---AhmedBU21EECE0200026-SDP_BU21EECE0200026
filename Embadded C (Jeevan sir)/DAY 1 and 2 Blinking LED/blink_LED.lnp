@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"blink_LED.obj",
+"Blink_in_sequnce.obj" 
+TO "blink_LED" 
+PRINT(".\Listings\blink_LED.m51")
